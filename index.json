@@ -1,0 +1,58 @@
+[
+  {
+    "name": "快看漫画",
+    "url": "https://raw.githubusercontent.com/cattoldme/venera-configs/main/kuaikan.js",
+    "key": "kuaikan",
+    "version": "1.0.0",
+    "description": "增量源：官方 Venera 索引未收录"
+  },
+  {
+    "name": "WEBTOON",
+    "url": "https://raw.githubusercontent.com/cattoldme/venera-configs/main/webtoon.js",
+    "key": "webtoon",
+    "version": "1.0.0",
+    "description": "增量源：官方 Venera 索引未收录"
+  },
+  {
+    "name": "咚漫漫画",
+    "url": "https://raw.githubusercontent.com/cattoldme/venera-configs/main/dongman.js",
+    "key": "dongman",
+    "version": "1.0.0",
+    "description": "增量源：官方 Venera 索引未收录"
+  },
+  {
+    "name": "腾讯动漫",
+    "url": "https://raw.githubusercontent.com/Angus-fw/venera-configs/main/ac_qq.js",
+    "key": "ac_qq",
+    "version": "1.0.0",
+    "description": "VIP 章节仅可查看锁章预览图"
+  },
+  {
+    "name": "顶漫画",
+    "url": "https://raw.githubusercontent.com/Angus-fw/venera-configs/main/dingmanhua.js",
+    "key": "dingmanhua",
+    "version": "1.0.1",
+    "description": "增量源：官方 Venera 索引未收录"
+  },
+  {
+    "name": "嬉皮漫画",
+    "url": "https://raw.githubusercontent.com/AXmishell/venera-configs/main/hipmh.js",
+    "key": "hipmh",
+    "version": "1.0.1",
+    "description": "增量源：官方 Venera 索引未收录"
+  },
+  {
+    "name": "神奇漫画",
+    "url": "https://raw.githubusercontent.com/coldnighten/venera-configs/main/shenqimanhua.js",
+    "key": "shenqimanhua",
+    "version": "1.1.1",
+    "description": "增量源：官方 Venera 索引未收录"
+  },
+  {
+    "name": "如漫画",
+    "url": "https://raw.githubusercontent.com/caitlin-cheng-ccc/venera-configs/main/rumanhua.js",
+    "key": "rumanhua",
+    "version": "1.0.3",
+    "description": "增量源：官方 Venera 索引未收录"
+  }
+]
